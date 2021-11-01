@@ -85,7 +85,7 @@ const UserForm = ({errors , handleChange , handleSubmit , inputs}) => {
                 </div>
                 <br></br>
 
-                <button type="submit" className="btn btn-success">Sign in</button>
+                <button type="submit" id='submit' className="btn btn-success">Send</button>
             </form>
         </div>
     )
